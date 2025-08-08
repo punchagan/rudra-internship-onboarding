@@ -17,3 +17,9 @@ Let's start with learning to version control and share code in a sane way.
 - https://www.youtube.com/watch?v=r8jQ9hVA2qs 
 
 You should be able to search for more resources yourself.
+
+
+# Task artefacts
+
+Rudra has created [this
+repository](https://github.com/RudraPrathap19/MyFirstGitCodeRepo)
